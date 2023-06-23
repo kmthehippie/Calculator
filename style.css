@@ -157,7 +157,7 @@ body{
 }
 
 .row div:hover{
-    background-color: black;
+    background-color: rgb(77, 77, 77);
     color: white;
 }
 
