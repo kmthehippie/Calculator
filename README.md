@@ -21,6 +21,10 @@ current = addDigit() =>{
     push digits onto array
     join the stuff from array to create a string of number
     convert string to number
+    - if array is not empty then it will stop adding numbers in.
+    the next button pressed, it stops because array a is not empty
+    what should i do to create the arrays.
+
 
     if a is not empty but b is empty
     create array
@@ -50,6 +54,11 @@ operate()=>{
 
     if b is empty array,
     then start addDigit to array
+
+    create a string for current operator.
+
+    if string
+
 
     if b is not empty array
     then start doing the function depending on the operator
